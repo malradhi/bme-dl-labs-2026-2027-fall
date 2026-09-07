@@ -1,14 +1,10 @@
-# BME MSc Deep Learning Labs
+# Lab 01: Arrays, gradients, and experiment logs
 
-**Academic year 2026/2027 · Fall semester**  
-**Budapest University of Technology and Economics (BME)**  
-**Instructor: Dr. Mohammed Salah Al-Radhi**
+**BME MSc Deep Learning · Fall semester 2026/2027**
 
-Welcome to the practical laboratory materials for the MSc Deep Learning course. These labs connect the concepts discussed in lectures with hands-on programming, experiments, and interpretation of results.
+[Back to the course overview](../README.md)
 
-This repository provides guided notebooks and assignment templates. You can access the materials here while your Moodle account is being arranged. Completed assignments are submitted through Moodle.
-
-## Lab 1: Arrays, gradients, and experiment logs
+## Learning objectives
 
 In this lab, you will learn to:
 
@@ -20,8 +16,8 @@ In this lab, you will learn to:
 
 | Material | Notebook | Run in Google Colab |
 | --- | --- | --- |
-| Guided examples — follow with the instructor | [Guided notebook](lab_01/01_BME_DL_Lab1_Guided.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malradhi/bme-dl-labs-2026-2027-fall/blob/main/lab_01/01_BME_DL_Lab1_Guided.ipynb) |
-| Independent work — complete and submit | [Assignment notebook](lab_01/02_BME_DL_Lab1_Assignment.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malradhi/bme-dl-labs-2026-2027-fall/blob/main/lab_01/02_BME_DL_Lab1_Assignment.ipynb) |
+| Guided examples — follow with the instructor | [Guided notebook](01_BME_DL_Lab1_Guided.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malradhi/bme-dl-labs-2026-2027-fall/blob/main/lab_01/01_BME_DL_Lab1_Guided.ipynb) |
+| Independent work — complete and submit | [Assignment notebook](02_BME_DL_Lab1_Assignment.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malradhi/bme-dl-labs-2026-2027-fall/blob/main/lab_01/02_BME_DL_Lab1_Assignment.ipynb) |
 
 ## How the lab works
 

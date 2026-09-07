@@ -12,7 +12,7 @@ This repository contains the practical laboratory materials for the MSc Deep Lea
 
 Materials are organised by lab. Each lab folder contains its own README, guided examples, and assignment notebook. New materials will be added during the semester.
 
-The notebooks are available here even if your Moodle access is still being arranged. Moodle is used for assignment submission.
+The notebooks are available here and in the Moodle as well. Moodle is used for assignment submission.
 
 ## Learning goals
 
@@ -31,6 +31,10 @@ The laboratory sessions aim to help you:
 | Lab 01 | NumPy arrays, TensorFlow gradients, and experiment logging | [Open Lab 01](lab_01/README.md) |
 | Lab 02 | To be announced | Coming soon |
 | Lab 03 | To be announced | Coming soon |
+| Lab 04 | To be announced | Coming soon |
+| Lab 05 | To be announced | Coming soon |
+| Lab 06 | To be announced | Coming soon |
+| Lab 07 | To be announced | Coming soon |
 
 Further labs will be added to this table as their materials are released.
 
@@ -67,7 +71,7 @@ Submit the files requested in each lab to Moodle by the stated deadline. For not
 
 A Colab sharing link alone does not replace the required notebook file.
 
-**No Moodle access yet?** Keep a downloaded copy of your work and inform the instructor before the deadline so that a submission method can be confirmed.
+**No Moodle access yet?** Keep a downloaded copy of your work and inform the instructor before the deadline so that a submission method can be confirmed. In this case, you must also send your work by email to the instructor.
 
 ## Academic practice
 

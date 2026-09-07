@@ -44,7 +44,7 @@ No local Python installation is required when using Colab. For help with saving 
 
 Submit the executed `.ipynb` file, not only a Colab sharing link. Submit your partial work on time if you cannot finish every task.
 
-**No Moodle access yet?** Keep a downloaded copy of your work and tell the instructor before the lab ends so that a submission method can be confirmed.
+**No Moodle access yet?** Keep a downloaded copy of your work and tell the instructor before the lab ends so that a submission method can be confirmed. In this case, you must also send your work by email to the instructor.
 
 ## Academic practice
 

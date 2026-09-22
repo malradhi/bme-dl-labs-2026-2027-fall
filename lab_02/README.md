@@ -3,8 +3,7 @@
 **Course:** Deep Learning / VITMMA19  
 **Budapest University of Technology and Economics (BME)**  
 **Department of Telecommunications and Artificial Intelligence**  
-**Instructor:** Dr. Mohammed Salah Al-Radhi
-**Academic year:** 2026/2027 — Fall semester
+**Academic year:** 2026/2027 — Fall semester  
 **Instructor:** Dr. Mohammed Salah Al-Radhi,
 
 Lab 02 introduces the standard **PyTorch deep-learning workflow** and applies it to image classification with convolutional neural networks (CNNs).

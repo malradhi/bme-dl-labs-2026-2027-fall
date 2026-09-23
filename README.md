@@ -29,7 +29,7 @@ The laboratory sessions aim to help you:
 | Lab | Topic | Materials |
 | --- | --- | --- |
 | Lab 01 | NumPy arrays, TensorFlow gradients, and experiment logging | [Open Lab 01](lab_01/README.md) |
-| Lab 02 | To be announced | Coming soon |
+| Lab 02 | Backpropagation in PyTorch and image classification | Open Lab 02](lab_02/README.md) |
 | Lab 03 | To be announced | Coming soon |
 | Lab 04 | To be announced | Coming soon |
 | Lab 05 | To be announced | Coming soon |

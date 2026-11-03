@@ -32,7 +32,7 @@ The laboratory sessions aim to help you:
 | Lab 02 | Backpropagation in PyTorch and image classification | [Open Lab 02](lab_02/README.md) |
 | Lab 03 | Hyperparameter optimization | [Open Lab 03](lab_03/README.md) |
 | Lab 04 | Classification metrics and CNN design | [Open Lab 04](lab_04/README.md) |
-| Lab 05 | To be announced | Coming soon |
+| Lab 05 | Computer vision and semantic segmentation | [Open Lab 05](lab_05/README.md) |
 | Lab 06 | To be announced | Coming soon |
 | Lab 07 | To be announced | Coming soon |
 
